@@ -9,8 +9,8 @@ I have used Python Library ‘Pandas’ ,'Matpoltlib' & ‘Seaborn’ for this p
 
 
 (2) BANK_CLASS_PROGRAM :
-I have created a Banking Applycation Program using Python.
-I have craeted a class Bank and within this I have defined three Metgods :
+I have created a Banking Application Program using Python.
+I have craeted a class Bank and within this I have defined three Methods :
    (a) show_balance()
    (b) depost()
    (c) withdraw()
