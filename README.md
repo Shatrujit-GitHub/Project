@@ -14,3 +14,6 @@ I have craeted a class Bank and within this I have defined three Methods :
    (a) show_balance()
    (b) depost()
    (c) withdraw()
+
+(3) Power BI Project (Super Store Sales Dashboard)
+   Incorporated Data-Analysis Techniques and Time-Series Analysis to deliver valuable insights, accurate sales forecasting and interactive Dashboard creation , driving Business Success.
