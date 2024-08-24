@@ -15,5 +15,9 @@ I have craeted a class Bank and within this I have defined three Methods :
    (b) depost()
    (c) withdraw()
 
-(3) Power BI Project (Super Store Sales Dashboard):
+(3) Excel Data Analysis Project - Vrinda Store Sales Data Analysis :
+    Data Cleaning, Data Processing, Data Analysing and Craeting interactive Dashboard using Charts and Pivot Tables.
+    Finally sharing Insights and Tips with the customers to improve their sales.
+
+(4) Power BI Project (Super Store Sales Dashboard):
    Incorporated Data-Analysis Techniques and Time-Series Analysis to deliver valuable insights, accurate sales forecasting and interactive Dashboard creation , driving Business Success.
