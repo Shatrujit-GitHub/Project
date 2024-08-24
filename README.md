@@ -16,7 +16,7 @@ I have craeted a class Bank and within this I have defined three Methods :
    (c) withdraw()
 
 (3) Excel Data Analysis Project - Vrinda Store Sales Data Analysis :
-    Data Cleaning, Data Processing, Data Analysing and Craeting interactive Dashboard using Charts and Pivot Tables.
+    Data Cleaning, Data Processing, Data Analysing and Creating interactive Dashboard using Charts and Pivot Tables.
     Finally sharing Insights and Tips with the customers to improve their sales.
 
 (4) Power BI Project (Super Store Sales Dashboard):
